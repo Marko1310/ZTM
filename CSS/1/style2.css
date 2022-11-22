@@ -1,0 +1,14 @@
+.boxmodel {
+  border: 5px solid red;
+  display: inline;
+  padding: 5px 20px 5px 20px;
+  margin: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+span {
+  font-size: 5em;
+}

@@ -1,0 +1,49 @@
+body {
+}
+
+h2 {
+  color: #aa4139;
+  text-align: center;
+  border: 5px solid purple;
+  cursor: pointer;
+}
+
+p {
+  color: pink;
+  text-transform: lowercase;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40px;
+  border: 5px solid black;
+}
+
+img {
+  float: left;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+.webtext:last-child {
+  color: pink;
+}
+
+.active {
+  color: red;
+}
+
+#div1 {
+  background-color: blue;
+}
+
+#div2 {
+  background-color: green;
+}
