@@ -2,7 +2,7 @@ import React from "react";
 import Card from "./Card";
 import { robots } from "./robots";
 
-const Cardlist = function () {
+const Cardlist = function ({ robots }) {
   return (
     <div>
       {robots.map((el) => {
